@@ -1,7 +1,7 @@
 [project]
 name = "coinmarketcap-pro-mcp-server"
 version = "0.1.0"
-description = "MCP server for CoinMarketCap Pro API with  HTTP 402 payment protocol support"
+description = "MCP server for CoinMarketCap Pro API with  authentication and  HTTP 402 payment protocol support"
 requires-python = ">=3.12"
 dependencies = [
     "anyio>=4.0.0",
